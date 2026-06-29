@@ -5,7 +5,7 @@ import ccxt.pro as ccxtpro  # 引入支持WebSocket的ccxt
 # 1. 配置你的 Bitget API 凭证
 API_CONFIG = {
     'apiKey': 'BITGET_API_KEY',
-    'secret': '',
+    'secret': 'BITGET_SECRET_KEY',
     'password': 'BITGET_PASSPHRASE',
     'timeout': 30000,  # 普通请求超时时间，单位毫秒
     'options': {    
