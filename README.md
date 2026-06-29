@@ -4,6 +4,7 @@
 **Fetch Open Orders.py**
 检测你的挂单状态 并且实时检测变动 
 效果如下：
+
 🔔 收到订单变动通知！订单ID: 1455468001837592577 | 币种: BTC/USDT:USDT | 当前状态: canceled
 ❌ 挂单解除: 【BTC/USDT:USDT】该笔订单 已撤单，已从本地同步移除。
 
